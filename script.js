@@ -1,3 +1,7 @@
+// 01_intro
+console.log("Hello, World!");
+console.log("Test");
+
 // 02_comment
 // Creating a variable using var keyword
 // var VariableName = 'Test';
